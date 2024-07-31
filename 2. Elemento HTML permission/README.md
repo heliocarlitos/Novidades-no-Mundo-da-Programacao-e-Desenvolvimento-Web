@@ -72,4 +72,4 @@ O `<permission>` está atualmente em fase de teste de origem, disponível do Chr
 
 #### Conclusão
 
-O `<permission>` representa uma evolução nos padrões de desenvolvimento web, oferecendo uma abordagem mais intuitiva e segura para a gestão de permissões de recursos poderosos em aplicativos da web.
+O `<permission>` representa uma evolução nos padrões de desenvolvimento web, oferecendo uma abordagem mais intuitiva e segura para a gestão de permissões de recursos em aplicativos da web.
